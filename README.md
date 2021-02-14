@@ -1,1 +1,1 @@
-# Pablogith
+![Metrics](https://metrics.lecoq.io/Pablogith?template=classic&isocalendar=1&languages=1&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FBudapest&config.animated=true)
